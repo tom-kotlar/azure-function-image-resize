@@ -1,0 +1,13 @@
+{
+  "name": "image-resize",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "func start",
+    "test": "echo \"No tests yet...\""
+  },
+  "dependencies": {
+    "jimp": "^0.16.1"
+  },
+  "devDependencies": {}
+}
